@@ -20,8 +20,8 @@
 
 ## 🌟 About Me
 
-```javascript
-const mostafa = {
+```typescript
+const mostafa: Object = {
   age: 20,
   location: "Iran 🇮🇷",
   title: "JS Developer",
