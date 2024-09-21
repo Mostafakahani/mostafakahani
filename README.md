@@ -24,8 +24,8 @@
 const mostafa = {
   age: 20,
   location: "Iran 🇮🇷",
-  title: "Frontend Developer",
-  skills: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"],
+  title: "JS Developer",
+  skills: ["TypeScript", "React", "Next.js", "Nest.js"],
   passions: ["UI/UX Design", "Web Performance", "Clean Code"],
   learning: "Nest.js for full-stack mastery",
   hobbies: ["Coding", "Reading Tech Blogs", "Coffee Brewing ☕"],
