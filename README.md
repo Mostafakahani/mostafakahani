@@ -18,4 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafakahani&show_icons=true&locale=en" alt="mostafakahani" /></p>
 
-<p><img align="center" src="" alt="mostafakahani" /></p>
