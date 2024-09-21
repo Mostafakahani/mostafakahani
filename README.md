@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mostafakahani&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true" alt="mostafakahani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafakahani&show_icons=true&locale=en" alt="mostafakahani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafakahani&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private" alt="mostafakahani" /></p>
 
