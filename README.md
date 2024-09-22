@@ -85,8 +85,8 @@ Front-end design using Nextjs and clean code.
 **Duration**: February 2024 – April 2024  
 **Role**: Full Stack Developer 
 
-### [Barman Tejarat Paydar]
-**Duration**: February 2023 – April 2023  
+### Barman Tejarat Paydar
+**Duration**: June 2023 – April 2023  
 **Role**: Front end Developer 
 
 ## 📊 GitHub Stats
