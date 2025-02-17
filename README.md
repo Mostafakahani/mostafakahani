@@ -66,7 +66,7 @@ const mostafa: Object = {
 </div>
 
 ## 📚 Projects
-### [Liwa](https://liwa.pro)
+### [Liwa]
 **Duration**: March 2024 – Present  
 **Role**: Front end Developer  
 An AI-powered goal management system designed to help users set and achieve goals by providing personalized guidance and feedback. The project leverages AI technologies to enhance user motivation and performance.
@@ -76,12 +76,12 @@ An AI-powered goal management system designed to help users set and achieve goal
 **Role**: Full Stack Developer  
 Led the design and development of a custom website for Mobin Vending Company. Managed the frontend implementation with Nextjs and optimized user experience for vending management systems.
 
-### [Short Link](https://link.webdevo.dev)
+### [Short Link]
 **Duration**: June 2024 – February 2024  
 **Role**: co-Project Manager & Front end Developer  
 Front-end design using Nextjs and clean code.
 
-### [Vixxa VPN+](https://v.webdevo.dev)
+### [Vixxa VPN+]
 **Duration**: February 2024 – April 2024  
 **Role**: Full Stack Developer 
 
