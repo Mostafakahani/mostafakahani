@@ -66,13 +66,16 @@ const mostafa: Object = {
 </div>
 
 ## 📚 Projects
+### [Mohammad Hajibeglo Software Company]
+**Duration**: March 2024 – Oct 2025  
+**Role**: Front end Developer - Frontend infrastructure implementation
 ### [Liwa]
-**Duration**: March 2024 – Present  
+**Duration**: Sep 2024 – Nov 2025  
 **Role**: Front end Developer  
 An AI-powered goal management system designed to help users set and achieve goals by providing personalized guidance and feedback. The project leverages AI technologies to enhance user motivation and performance.
 
 ### [Mobin Vending Company Website](https://mobinvending.com)
-**Duration**: February 2024 – Present
+**Duration**: February 2024 – Ocr 2025
 **Role**: Full Stack Developer  
 Led the design and development of a custom website for Mobin Vending Company. Managed the frontend implementation with Nextjs and optimized user experience for vending management systems.
 
