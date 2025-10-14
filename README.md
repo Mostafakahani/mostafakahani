@@ -66,7 +66,7 @@ const mostafa: Object = {
 </div>
 
 ## 📚 Projects
-### [Mohammad Hajibeglo Software Company]
+### [Simorgh-Tech Software Company]
 **Duration**: March 2024 – Oct 2025  
 **Role**: Front end Developer - Frontend infrastructure implementation
 ### [Liwa]
