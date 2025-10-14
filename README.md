@@ -22,15 +22,35 @@
 
 ```typescript
 const mostafa: Object = {
-  age: 20,
+  name: "Mostafa Kahani",
+  age: 21,
   location: "Iran 🇮🇷",
-  title: "JS Developer",
-  skills: ["TypeScript", "React", "Next.js", "Nest.js"],
-  passions: ["UI/UX Design", "Web Performance", "Clean Code"],
-  learning: "Nest.js for full-stack mastery",
+  role: "Front-end Developer",
+  title: "Next.js Developer",
+  experience: "2 years of professional experience",
+  skills: [
+    "TypeScript",
+    "React",
+    "Next.js (App Router)",
+    "Tailwind CSS",
+    "Node.js",
+    "Nest.js",
+    "Testing (Jest, Vi-test, React Testing Library)",
+    "Monitoring & Observability",
+  ],
+  passions: [
+    "UI/UX Design",
+    "Web Performance Optimization",
+    "Clean Code",
+    "DevOps Integration",
+  ],
+  learning:
+    "Monitoring & Observability Stack (Prometheus, Grafana, Loki, Beyla)",
+  projects: ["Crypto Platform", "URL Managers", "Dashboard Systems", "Ai Chat bot", "Monitoring Systems"],
   hobbies: ["Coding", "Reading Tech Blogs", "Coffee Brewing ☕"],
-  funFact: "I can debug code faster than I can find my keys! 🔑💻"
+  funFact: "I can debug code faster than I can find my keys! 🔑💻",
 };
+
 ```
 
 <details>
