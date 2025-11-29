@@ -59,7 +59,6 @@ Frontend delivery role on business-facing interfaces, with emphasis on usability
 
 ---
 
-## Contribution Snake (Fixed for GitHub)
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mostafakahani/Mostafakahani/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
