@@ -1,148 +1,71 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mostafa%20Kahani&fontSize=90&stroke=0000FF&strokeWidth=3&animation=fadeIn&fontColor=FFFFFF&desc=Frontend%20Maestro%20%7C%20Code%20Artisan&descAlignY=65" width="100%" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mostafa%20Kahani&fontSize=90&stroke=0000FF&strokeWidth=3&animation=fadeIn&fontColor=FFFFFF&desc=Product%20Manager%20%7C%20Frontend%20Developer&descAlignY=65" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://github.com/Mostafakahani">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3AAEF7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Frontend+Developer;%F0%9F%8C%9F+UI%2FUX+Enthusiast;%F0%9F%92%A1+Continuous+Learner;%F0%9F%8C%88+Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3AAEF7&center=true&vCenter=true&width=550&lines=Product+Manager+%7C+Frontend+Developer;Delivery-Focused+%7C+UX-Driven" />
   </a>
 </p>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-kahani-63bb2b227)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mostafa_kahanii)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahanimostafa83@gmail.com)
-  
-  <img src="https://komarev.com/ghpvc/?username=Mostafakahani&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+  <!-- Corrected Social Links -->
+  <a href="https://www.linkedin.com/in/mostafakahani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kahanimostafa83@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Mostafakahani&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
-## 🌟 About Me
+---
 
-```typescript
-const mostafa: Object = {
-  name: "Mostafa Kahani",
-  age: 21,
-  location: "Iran 🇮🇷",
-  role: "Front-end Developer",
-  title: "Next.js Developer",
-  experience: "2 years of professional experience",
-  skills: [
-    "TypeScript",
-    "React",
-    "Next.js (App Router)",
-    "Tailwind CSS",
-    "Node.js",
-    "Nest.js",
-    "Testing (Jest, Vi-test, React Testing Library)",
-    "Monitoring & Observability",
-  ],
-  passions: [
-    "UI/UX Design",
-    "Web Performance Optimization",
-    "Clean Code",
-    "DevOps Integration",
-  ],
-  learning:
-    "Monitoring & Observability Stack (Prometheus, Grafana, Loki, Beyla)",
-  projects: ["Crypto Platform", "URL Managers", "Dashboard Systems", "Ai Chat bot", "Monitoring Systems"],
-  hobbies: ["Coding", "Reading Tech Blogs", "Coffee Brewing ☕"],
-  funFact: "I can debug code faster than I can find my keys! 🔑💻",
-};
+# Mostafa Kahani  
+**Product Manager & Frontend Engineer**  
+Outcome-oriented PM with a strong engineering background. I lead product discovery, roadmap execution, and cross-functional delivery while applying more than **3 years of hands-on development experience** in frontend architecture and performance.
 
-```
+---
 
-<details>
-<summary>🚀 More About Me</summary>
-<br>
+## Projects
 
-- 🎯 Goal-oriented developer with a knack for meeting tight deadlines
-- 🌱 Fast learner, always eager to explore new technologies
-- 🤝 Strong team player with excellent communication skills
-- 💡 Passionate about creating intuitive and efficient user interfaces
-- 🌟 Committed to writing clean, maintainable, and efficient code
+### Dicato CRM — Product Manager (in progress)  
+Leading product and delivery for a modern CRM focused on measurable customer workflows. Responsible for product vision, roadmap, backlog prioritization, sprint management, stakeholder alignment, and KPI tracking. (Started ~Sep 2025)
 
-</details>
+### Tizbin — Monitoring Platform (PM & DevOps Lead)  
+Project lead for a monitoring & observability platform: designed dashboard UX, alerting workflows, coordinated integrations, and ran delivery sprints as PM.
 
-## 💻 Tech Stack
+### Mobin Vending — Product Technical Lead  
+Led product for a vending machines web platform, focusing on UX improvements, performance, and launch readiness to support business operations.
 
+### Liwa — Product Contributor (AI Goal Management)  
+Contributed to product direction and delivery for an AI-powered goal management system — focused on user flows, onboarding, and iterative releases.
+
+### Exporter Students Data Bot for Amouzeshyar — Co-Project Manager
+Co-led product scope implementation for a Students Data management; owned backlog, acceptance criteria, and release milestones.
+
+### Vixxa VPN+ — Delivery Lead  
+Owned end-to-end delivery for a customer-facing VPN product, ensuring release stability, UX polish, and operational readiness.
+
+### Barman Tejarat Paydar — Frontend Delivery  
+Frontend delivery role on business-facing interfaces, with emphasis on usability and performance.
+
+### Additional work
+- Dashboard systems, crypto tooling, and AI-assisted features — typically in hybrid PM + engineering roles where product decisions and frontend delivery intersect.
+
+---
+
+## Contribution Snake (Fixed for GitHub)
 <div align="center">
-
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+  <img src="https://raw.githubusercontent.com/Mostafakahani/Mostafakahani/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-## 📚 Projects
-### [Simorgh-Tech Software Company]
-**Duration**: March 2024 – Oct 2025  
-**Role**: Front end Developer - Frontend infrastructure implementation
-### [Liwa]
-**Duration**: Sep 2024 – Nov 2025  
-**Role**: Front end Developer  
-An AI-powered goal management system designed to help users set and achieve goals by providing personalized guidance and feedback. The project leverages AI technologies to enhance user motivation and performance.
-
-### [Mobin Vending Company Website](https://mobinvending.com)
-**Duration**: February 2024 – Ocr 2025
-**Role**: Full Stack Developer  
-Led the design and development of a custom website for Mobin Vending Company. Managed the frontend implementation with Nextjs and optimized user experience for vending management systems.
-
-### [Short Link]
-**Duration**: June 2024 – February 2024  
-**Role**: co-Project Manager & Front end Developer  
-Front-end design using Nextjs and clean code.
-
-### [Vixxa VPN+]
-**Duration**: February 2024 – April 2024  
-**Role**: Full Stack Developer 
-
-### Barman Tejarat Paydar
-**Duration**: June 2023 – April 2023  
-**Role**: Front end Developer 
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafakahani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafakahani&theme=radical" alt="GitHub Streak" />
-</div>
-
-<details>
-  <summary>📈 Contribution Graph</summary>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafakahani&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
-</details>
-
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Mostafakahani&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies"/>
-</details>
-
-<details>
-  <summary>🔝 Top Languages</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafakahani&layout=compact&theme=radical" width="100%" alt="Top Languages" />
-</details>
-
-## 🌈 My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mostafakahani/Mostafakahani/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" />
 </div>
